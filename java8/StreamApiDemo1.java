@@ -5,14 +5,23 @@ import java.util.Optional;
 import java.util.Random;
 import java.util.stream.Stream;
 
-public class StreamApiDemo {
+public class StreamApiDemo1 {
     public static void main(String[] args) {
         ArrayList<Integer> myList = new ArrayList<>();
+        /* 
         Random r = new Random();
 
-        for(int i = 0; i<10; i++) {
+        for(int i = 0; i<6; i++) {
             myList.add(r.nextInt(100));
         }
+         */
+
+        myList.add(7);
+        myList.add(18);
+        myList.add(10);
+        myList.add(24);
+        myList.add(17);
+        myList.add(5);
 
         System.out.println("Original List: "+ myList);
 
