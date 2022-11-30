@@ -35,4 +35,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Docker Run Command
 
-`docker build -t rohitpjpti18/angularpractice:latest .`
+`docker run -d -p 80:80 rohitpjpti18/angularpractice`
