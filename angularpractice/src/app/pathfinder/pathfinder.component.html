@@ -1,0 +1,6 @@
+<button mat-button [matMenuTriggerFor]="menu">Choose an algorithm</button>
+<mat-menu #menu="matMenu">
+    <button mat-menu-item *ngFor="let algorithm of algorithms">{{algorithm}}</button>
+</mat-menu>
+
+<app-board></app-board>
