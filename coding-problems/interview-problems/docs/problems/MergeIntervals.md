@@ -28,9 +28,9 @@ Explanation:    Intervals [1,4] and [4,5] are considered overlapping.
 - <code>0 <= start<sub>i</sub> <= end<sub>i</sub> <= 10<sup>4</sup></code>
 
 
-https://github.com/rohitpjpti18/coding-practice/blob/ae25b2e65a11aee06c2223600ab99ccd88a894ec/coding-problems/leetcode/java/MergeInterval.java#L1-18
+https://github.com/rohitpjpti18/coding-practice/blob/ae25b2e65a11aee06c2223600ab99ccd88a894ec/coding-problems/leetcode/java/MergeInterval.java#L1-L18
 
-https://github.com/rohitpjpti18/coding-practice/blob/ae25b2e65a11aee06c2223600ab99ccd88a894ec/coding-problems/leetcode/python/MergeInterval.py#L1-28
+https://github.com/rohitpjpti18/coding-practice/blob/ae25b2e65a11aee06c2223600ab99ccd88a894ec/coding-problems/leetcode/python/MergeInterval.py#L1-L28
 
 
 &larr; [Back to Interview Preparation](../InterviewPreparation.md)
