@@ -4,28 +4,28 @@
 
 | Question                      | Difficulty | Status | Last Solved On    | Topics  | 
 | -----------------             |-----       |-----   | -----------       | ------  |
-| [Set Zero Matrix](./common-problems/arrays/SetZeroMatrix.md)               | Medium     | :heavy_check_mark:  | 4 July, 2022      | Array, HashTable, Matrix
-| [Pascal's Triangle](./common-problems/arrays/PascalTriangle.md)            | Easy       | :heavy_check_mark:  | 4 July, 2022      |   Array, Dynamic Programming
-| [Next Permutation](./common-problems/arrays/NextPermutation.md)            | Medium     |  :heavy_check_mark:   | 4 July, 2022      | Array, Two Pointer
-| [Maximum Subarray Sum](./common-problems/arrays/MaxSubArraySum.md)         | Medium     |  :heavy_check_mark:   | 4 July, 2022      | Array, Divide and Conquer, Dynamic Programming
-| [Sort Colors](./common-problems/arrays/SortColors.md)                      | Medium     |  :heavy_check_mark:   | 4 July, 2022      | Array, Two Pointers, Sorting
-| [Best Time to Buy Stock](./common-problems/arrays/BuySellStocks.md)        | Easy       |  :heavy_check_mark: | 4 July, 2022      | Array, Dynamic Programming
+| [Set Zero Matrix](./problems/SetZeroMatrix.md)               | Medium     | :heavy_check_mark:  | 4 July, 2022      | `Array`, `HashTable`, `Matrix`
+| [Pascal's Triangle](./problems/PascalTriangle.md)            | Easy       | :heavy_check_mark:  | 4 July, 2022      |   `Array`, `Dynamic Programming`
+| [Next Permutation](./problems/NextPermutation.md)            | Medium     |  :heavy_check_mark:   | 4 July, 2022      | `Array`, `Two Pointer`
+| [Maximum Subarray Sum](./problems/MaxSubArraySum.md)         | Medium     |  :heavy_check_mark:   | 4 July, 2022      | `Array`, `Divide and Conquer`, `Dynamic Programming`
+| [Sort Colors](./problems/SortColors.md)                      | Medium     |  :heavy_check_mark:   | 4 July, 2022      | `Array`, `Two Pointers`, `Sorting`
+| [Best Time to Buy Stock](./problems/BuySellStocks.md)        | Easy       |  :heavy_check_mark: | 4 July, 2022      | `Array`, `Dynamic Programming`
 
 ## Arrays Part II
 | Question                      | Difficulty | Status | Last Solved On    | Topics  | 
 | -----------------             |-----       |-----   | -----------       | ------  |
-| [Rotate Image](./common-problems/arrays2/RotateImage.md)        | Medium     | :heavy_check_mark:   | 5 July, 2022    | Array, Math, Matrix
-|Merge Overlapping subintervals|   - | :heavy_check_mark: | -   | - 
-|Merge two sorted Arrays without extra space |    - | :heavy_check_mark: | -   | - 
-|Find the duplicate in an array of N+1 integers |    - | :heavy_check_mark: | -   | - 
-|Repeat and missing Number |    - | :heavy_check_mark: | -   | - 
-|Inversion of Array (Pre-req: Merge Sort) |    - | :heavy_check_mark: | -   | - 
+| [Rotate Image](./problems/RotateImage.md)        | Medium     | :heavy_check_mark:   | 5 July, 2022    | `Array`, `Math`, `Matrix`
+| [Merge Overlapping subintervals](./problems/MergeIntervals.md)| Medium | :heavy_check_mark: | 07 December, 2022   | `Array`, `String`
+|Merge two sorted Arrays without extra space | - | :x: | -   | - 
+|Find the duplicate in an array of N+1 integers |    - | :x: | -   | - 
+|Repeat and missing Number |    - | :x: | -   | - 
+|Inversion of Array (Pre-req: Merge Sort) |    - | :x: | -   | - 
 
 ## Arrays Part III
 
 | Question                      | Difficulty | Status | Last Solved On    | Topics  | 
 | -----------------             |-----       |-----   | -----------       | ------  |
-| [Search a 2d Matrix](./common-problems/arrays3/SearchInA2dMatrix.md)               | Medium     | :x:  | -      | Array, Binary Search, Matrix
+| [Search a 2d Matrix](./problems/SearchInA2dMatrix.md)               | Medium     | :x:  | -      | Array, Binary Search, Matrix
 |Pow(X, n) | - | :x: | - | - 
 | Majority Element (>N/2 times) | - | :x: | - | -
 | Majority Element (>N/3 times) | - | :x: | - | -
@@ -37,7 +37,7 @@
 
 | Question                      | Difficulty | Status | Last Solved On    | Topics  | 
 | -----------------             |-----       |-----   | -----------       | ------  |
-| [2-Sum Problem](./common-problems/arrays3/SearchInA2dMatrix.md)               | Medium     | :x:  | -      | Array, Binary Search, Matrix
+| [2-Sum Problem](./problems/SearchInA2dMatrix.md)               | Medium     | :x:  | -      | Array, Binary Search, Matrix
 |4-Sum Problem | - | :x: | - | - 
 | Longest Consecutive Sequence | - | :x: | - | -
 | Largest Subarray with 0 sum | - | :x: | - | -
