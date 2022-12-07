@@ -29,11 +29,11 @@ Explanation:    Intervals [1,4] and [4,5] are considered overlapping.
 
 ## JAVA
 
-<https://github.com/rohitpjpti18/coding-practice/blob/ae25b2e65a11aee06c2223600ab99ccd88a894ec/coding-problems/leetcode/java/MergeInterval.java#L1-L18>
+<https://github.com/rohitpjpti18/coding-practice/blob/ae25b2e65a11aee06c2223600ab99ccd88a894ec/coding-problems/leetcode/java/MergeInterval.java?plain=1#L1-L18>
 
 ## PYTHON
 
-<https://github.com/rohitpjpti18/coding-practice/blob/ae25b2e65a11aee06c2223600ab99ccd88a894ec/coding-problems/leetcode/python/MergeInterval.py#L1-L28>
+<https://github.com/rohitpjpti18/coding-practice/blob/ae25b2e65a11aee06c2223600ab99ccd88a894ec/coding-problems/leetcode/python/MergeInterval.py?plain=1#L1-L28>
 
 
 &larr; [Back to Interview Preparation](../InterviewPreparation.md)
