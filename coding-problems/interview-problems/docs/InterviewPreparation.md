@@ -6,18 +6,18 @@
 
 | Question                      | Difficulty | Status | Last Solved On    | Topics  | 
 | -----------------             |-----       |-----   | -----------       | ------  |
-| [Set Zero Matrix](./problems/SetZeroMatrix.md)               | Medium     | :heavy_check_mark:  | 4 July, 2022      | `Array`, `HashTable`, `Matrix`
-| [Pascal's Triangle](./problems/PascalTriangle.md)            | Easy       | :heavy_check_mark:  | 4 July, 2022      |   `Array`, `Dynamic Programming`
-| [Next Permutation](./problems/NextPermutation.md)            | Medium     |  :heavy_check_mark:   | 4 July, 2022      | `Array`, `Two Pointer`
-| [Maximum Subarray Sum](./problems/MaxSubArraySum.md)         | Medium     |  :heavy_check_mark:   | 4 July, 2022      | `Array`, `Divide and Conquer`, `Dynamic Programming`
-| [Sort Colors](./problems/SortColors.md)                      | Medium     |  :heavy_check_mark:   | 4 July, 2022      | `Array`, `Two Pointers`, `Sorting`
-| [Best Time to Buy Stock](./problems/BuySellStocks.md)        | Easy       |  :heavy_check_mark: | 4 July, 2022      | `Array`, `Dynamic Programming`
+| [Set Zero Matrix](./problems/SetZeroMatrix.md)               | **Medium**  | :heavy_check_mark:  | 4 July, 2022      | `Array`, `HashTable`, `Matrix`
+| [Pascal's Triangle](./problems/PascalTriangle.md)            | **Easy**       | :heavy_check_mark:  | 4 July, 2022      |   `Array`, `Dynamic Programming`
+| [Next Permutation](./problems/NextPermutation.md)            | **Medium**     |  :heavy_check_mark:   | 4 July, 2022      | `Array`, `Two Pointer`
+| [Maximum Subarray Sum](./problems/MaxSubArraySum.md)         | **Medium**     |  :heavy_check_mark:   | 4 July, 2022      | `Array`, `Divide and Conquer`, `Dynamic Programming`
+| [Sort Colors](./problems/SortColors.md)                      | **Medium**    |  :heavy_check_mark:   | 4 July, 2022      | `Array`, `Two Pointers`, `Sorting`
+| [Best Time to Buy Stock](./problems/BuySellStocks.md)        | **Easy**       |  :heavy_check_mark: | 4 July, 2022      | `Array`, `Dynamic Programming`
 
 ## Arrays Part II
 | Question                      | Difficulty | Status | Last Solved On    | Topics  | 
 | -----------------             |-----       |-----   | -----------       | ------  |
-| [Rotate Image](./problems/RotateImage.md)        | Medium     | :heavy_check_mark:   | 5 July, 2022    | `Array`, `Math`, `Matrix`
-| [Merge Overlapping subintervals](./problems/MergeIntervals.md)| Medium | :heavy_check_mark: | 07 December, 2022   | `Array`, `String`
+| [Rotate Image](./problems/RotateImage.md)        | **Medium**    | :heavy_check_mark:   | 5 July, 2022    | `Array`, `Math`, `Matrix`
+| [Merge Overlapping subintervals](./problems/MergeIntervals.md)| **Medium**| :heavy_check_mark: | 07 December, 2022   | `Array`, `String`
 |Merge two sorted Arrays without extra space | - | :x: | -   | - 
 |Find the duplicate in an array of N+1 integers |    - | :x: | -   | - 
 |Repeat and missing Number |    - | :x: | -   | - 
