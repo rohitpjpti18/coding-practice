@@ -33,7 +33,7 @@ Explanation:    Intervals [1,4] and [4,5] are considered overlapping.
 
 ## PYTHON
 
-<https://github.com/rohitpjpti18/coding-practice/blob/master/coding-problems/leetcode/python/MergeInterval.py#L1-L28>
+<https://github.com/rohitpjpti18/coding-practice/blob/ae25b2e65a11aee06c2223600ab99ccd88a894ec/coding-problems/leetcode/python/MergeInterval.py#L1-L28>
 
 
 &larr; [Back to Interview Preparation](../InterviewPreparation.md)
