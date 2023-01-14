@@ -28,7 +28,7 @@
 | Question                      | Difficulty | Status | Last Solved On    | Topics  | 
 | -----------------             |-----       |-----   | -----------       | ------  |
 | [Search a 2d Matrix](./problems/SearchInA2dMatrix.md)               | **Medium**     | :heavy_check_mark:  | 14 January, 2023    | `Array`, `Binary Search`, `Matrix`
-|Pow(X, n) | - | :x: | - | - 
+|[Pow(X, n)](./problems/pow.md) | **Medium** | :heavy_check_mark: | 14 January, 2023 | `Math`, `Recursion` 
 | Majority Element (>N/2 times) | - | :x: | - | -
 | Majority Element (>N/3 times) | - | :x: | - | -
 | Grid Unique Paths | - | :x: | - | -
