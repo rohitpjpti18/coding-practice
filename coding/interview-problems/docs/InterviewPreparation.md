@@ -29,8 +29,8 @@
 | -----------------             |-----       |-----   | -----------       | ------  |
 | [Search a 2d Matrix](./problems/SearchInA2dMatrix.md)               | **Medium**     | :heavy_check_mark:  | 14 January, 2023    | `Array`, `Binary Search`, `Matrix`
 |[Pow(X, n)](./problems/pow.md) | **Medium** | :heavy_check_mark: | 14 January, 2023 | `Math`, `Recursion` 
-| Majority Element (>N/2 times) | - | :x: | - | -
-| Majority Element (>N/3 times) | - | :x: | - | -
+| [Majority Element (>N/2 times)](./problems/MajorityElement.md) | **Easy** | :heavy_check_mark: | 14 January, 2023 | `Array` `Hash Table` `Divide and Conquer` `Sorting` `Counting`
+| [Majority Element (>N/3 times)](./problems/MajorityElementII.md) | **Medium** | :heavy_check_mark: | 14 January, 2023 | `Array` `Hash Table` `Sorting` `Counting`
 | Grid Unique Paths | - | :x: | - | -
 | Reverse Pairs (Leedcode) | - | :x: | - | -
 
