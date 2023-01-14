@@ -20,7 +20,7 @@
 | [Merge Overlapping subintervals](./problems/MergeIntervals.md)| **Medium**| :heavy_check_mark: | 07 December, 2022   | `Array`, `String`
 | [Merge two sorted Arrays without extra space](./problems/MergeSortedArray.md) | **Easy** | :heavy_check_mark: | 11 December, 2022   | `Array`, `Two Pointers`, `Sorting` 
 |[Find the duplicate in an array of N+1 integers](./problems/FindDuplicate.md) | **Medium** | :heavy_check_mark: | 21 December, 2022   | `Array` `Two Pointers` `Binary Search` `Bit Manipulation` 
-|Repeat and missing Number |    - | :x: | -   | - 
+|[Repeat and missing Number](./problems/RepeatAndMissing.md) | **Easy** | :heavy_check_mark: | 14 December, 2023   | `Bit Manipulation` `Sorting` `Arrays` `Binary Search` 
 |Inversion of Array (Pre-req: Merge Sort) |    - | :x: | -   | - 
 
 ## Arrays Part III
