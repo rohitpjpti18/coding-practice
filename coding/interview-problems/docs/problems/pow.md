@@ -1,4 +1,4 @@
-# Repeat and Missing Number | [Leetcode](https://leetcode.com/problems/powx-n/)
+# Pow(x, n) | [Leetcode](https://leetcode.com/problems/powx-n/)
 
 
 &larr; [Back to Interview Preparation](../InterviewPreparation.md)
