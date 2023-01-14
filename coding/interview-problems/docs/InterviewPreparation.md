@@ -20,14 +20,14 @@
 | [Merge Overlapping subintervals](./problems/MergeIntervals.md)| **Medium**| :heavy_check_mark: | 07 December, 2022   | `Array`, `String`
 | [Merge two sorted Arrays without extra space](./problems/MergeSortedArray.md) | **Easy** | :heavy_check_mark: | 11 December, 2022   | `Array`, `Two Pointers`, `Sorting` 
 |[Find the duplicate in an array of N+1 integers](./problems/FindDuplicate.md) | **Medium** | :heavy_check_mark: | 21 December, 2022   | `Array` `Two Pointers` `Binary Search` `Bit Manipulation` 
-|[Repeat and missing Number](./problems/RepeatAndMissing.md) | **Easy** | :heavy_check_mark: | 14 December, 2023   | `Bit Manipulation` `Sorting` `Arrays` `Binary Search` 
+|[Repeat and missing Number](./problems/RepeatAndMissing.md) | **Easy** | :heavy_check_mark: | 14 January, 2023   | `Bit Manipulation` `Sorting` `Arrays` `Binary Search` 
 |Inversion of Array (Pre-req: Merge Sort) |    - | :x: | -   | - 
 
 ## Arrays Part III
 
 | Question                      | Difficulty | Status | Last Solved On    | Topics  | 
 | -----------------             |-----       |-----   | -----------       | ------  |
-| [Search a 2d Matrix](./problems/SearchInA2dMatrix.md)               | Medium     | :x:  | -      | Array, Binary Search, Matrix
+| [Search a 2d Matrix](./problems/SearchInA2dMatrix.md)               | **Medium**     | :heavy_check_mark:  | 14 January, 2023    | `Array`, `Binary Search`, `Matrix`
 |Pow(X, n) | - | :x: | - | - 
 | Majority Element (>N/2 times) | - | :x: | - | -
 | Majority Element (>N/3 times) | - | :x: | - | -
