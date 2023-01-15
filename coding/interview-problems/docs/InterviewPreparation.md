@@ -41,7 +41,7 @@
 | Question                      | Difficulty | Status | Last Solved On    | Topics  | 
 | -----------------             |-----       |-----   | -----------       | ------  |
 | [2-Sum Problem](./problems/TwoSum.md)               | **Medium**     | :heavy_check_mark:  | 15 January, 2023      |  `Array` `Two Pointers` `Binary Search`
-|4-Sum Problem | - | :x: | - | - 
+| [4-Sum Problem](./problems/FourSum.md) | **Medium** | :heavy_check_mark: | 15 December, 2023 | `Array` `Two Pointers` `Sorting` 
 | Longest Consecutive Sequence | - | :x: | - | -
 | Largest Subarray with 0 sum | - | :x: | - | -
 | Count number of subarrays with given Xor K | - | :x: | - | -
