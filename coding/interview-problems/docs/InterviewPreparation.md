@@ -31,8 +31,9 @@
 |[Pow(X, n)](./problems/pow.md) | **Medium** | :heavy_check_mark: | 14 January, 2023 | `Math`, `Recursion` 
 | [Majority Element (>N/2 times)](./problems/MajorityElement.md) | **Easy** | :heavy_check_mark: | 14 January, 2023 | `Array` `Hash Table` `Divide and Conquer` `Sorting` `Counting`
 | [Majority Element (>N/3 times)](./problems/MajorityElementII.md) | **Medium** | :heavy_check_mark: | 14 January, 2023 | `Array` `Hash Table` `Sorting` `Counting`
-| Grid Unique Paths | - | :x: | - | -
-| Reverse Pairs (Leedcode) | - | :x: | - | -
+| [Grid Unique Paths](./problems/UniquePaths.md) | **Easy** | :heavy_check_mark: | 15 January, 2023 | `Math` `Dynamic Programming` `Combinatorics`
+| [Reverse Pairs](./problems/ReversePairs.md) | **Hard** | :heavy_check_mark: | 15 January, 2023 | `Array` `Binary Search` `Divide and Conquer` `Binary` `Indexed Tree` `Segment Tree` `Merge Sort` `Ordered Set`
+
 
 
 ## Arrays Part IV
