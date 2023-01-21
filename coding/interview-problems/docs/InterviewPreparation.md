@@ -42,7 +42,7 @@
 | -----------------             |-----       |-----   | -----------       | ------  |
 | [2-Sum Problem](./problems/TwoSum.md)               | **Medium**     | :heavy_check_mark:  | 15 January, 2023      |  `Array` `Two Pointers` `Binary Search`
 | [4-Sum Problem](./problems/FourSum.md) | **Medium** | :heavy_check_mark: | 15 January, 2023 | `Array` `Two Pointers` `Sorting` 
-| Longest Consecutive Sequence | - | :x: | - | -
+| [Longest Consecutive Sequence](./problems/LongestConsecutiveSequence.md) | **Medium** | <ul><li> -[x] java8</li><li> -[x] python3</li></ul> | 21 January, 2023 | `Array` `Hash Table` `Union Find`
 | Largest Subarray with 0 sum | - | :x: | - | -
 | Count number of subarrays with given Xor K | - | :x: | - | -
 | Longest Substring without repeat | - | :x: | - | -
